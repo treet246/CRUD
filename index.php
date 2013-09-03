@@ -67,7 +67,7 @@
     <label for="id">Delete Listing by ID: </label>
     <input type="range" name="id" id="id" min="1" max="100" onchange="updateTextInput(this.value);">
     <input type="text" id="textInput" name="delete">
-    <input type="submit" name="deletebutton">
+    <input type="submit" name="deletebutton" value="Delete">
      </form>
      
         

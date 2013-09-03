@@ -7,5 +7,5 @@
     Model Name: <input type="text" name="modelname"><br>
     Model Make: <input type="text" name="modelmake"><br>
     Year: <input type="text" name="year">
-    <input type="submit" name="updatelisting">
+    <input type="submit" name="updatelisting" value="Update">
     </form>
